@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/camera_web-0.3.5" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/camera-0.11.0+2" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/tflite_flutter-0.11.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.17+5" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/camera_android_camerax-0.6.10" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
